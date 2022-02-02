@@ -1,0 +1,23 @@
+{
+  "name": "hello-electron",
+  "version": "0.0.0",
+  "description": "Hello world app cross-platform",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron . --trace-warnings"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noor-latif/electron.js-experiment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noor-latif/electron.js-experiment/issues"
+  },
+  "homepage": "https://github.com/noor-latif/electron.js-experiment#readme",
+  "devDependencies": {
+    "electron": "^17.0.0"
+  }
+}
